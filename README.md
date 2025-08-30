@@ -20,6 +20,7 @@ Inversion About the Mean, Grover’s Search: One Qubit Representation, Grover’
 
 ## Additional Resources (Collected from Discord):
 
+- [Repository](https://gitlab.com/qworld/bronze-qiskit)
 - [A guide to online resources for learning quantum computing](https://www.nqcc.ac.uk/a-guide-to-online-resources-for-learning-quantum-computing/)
 - [Quantum Classroom](https://monitsharma.github.io/)
 - [Virtual Lab by Quantum Flytrap](https://lab.quantumflytrap.com/game)
